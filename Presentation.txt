@@ -1,0 +1,9 @@
+Bonjour,
+
+Je suis actuellement en stage dans une entreprise en Informatique.
+J'en ai pour 2 mois, la société souhaite m'apporter de nouvelles connaissances.
+Et c'est donc dans ce cadre que j'apprends à me servir de git et github,
+ce n'est vraiment pas évident, mais je me donne à fond quand même.
+
+Bonne journée à vous,
+Une inconnue.
